@@ -1,8 +1,3 @@
--- UAS_120510200036
--- Nama: Nathan Giharis
--- NPM: 120510200036
--- Basis Data: Mysql
-
 -- 2.a. Buatlah tabel-tabel tersebut dalam satu skema UAS_120510200036, CREATE SCHEMA UAS_120510200036;
 CREATE SCHEMA UAS_120510200036;
 
